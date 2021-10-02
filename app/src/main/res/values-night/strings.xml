@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Actividad2UMB</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
     <string name="username">UserValue</string>
+    <string name="password">Contraseña</string>
+    <string name="presentation">TextView</string>
+    <string name="string_presentation">Hi i\'m your presentation</string>
+    <string name="Presentation">Ingeniería de software</string>
+    <string name="asginature_name">Programación de plataformas móviles 2</string>
+    <string name="student_name">Nelson Javier Castellanos Garzón</string>
+    <string name="semester">Septimo Semestre Año 2021</string>
+    <string name="teacher_name">"Mendez Lara Jhon Alexis\t "</string>
+    <string name="umb_logo">Umb Logo de universidad</string>
 </resources>
